@@ -2,8 +2,8 @@
 {
   "id": "/",
   "name": "CoursLen",
-  "short_name": "Kedisiplinan",
-  "description": "Aplikasi pengelolaan kedisiplinan dan pembinaan anak panti",
+  "short_name": "CoursLen",
+  "description": "LMS Member",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
