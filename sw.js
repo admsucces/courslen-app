@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'kedisiplinan-pwa-v1';
+const CACHE_NAME = 'courslen-pwa-v1';
 
 const APP_SHELL = [
   '/',
